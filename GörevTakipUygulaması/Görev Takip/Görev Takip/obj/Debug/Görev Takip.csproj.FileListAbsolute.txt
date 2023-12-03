@@ -1,0 +1,19 @@
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\Görev Takip.exe.config
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\Görev Takip.exe
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\Görev Takip.pdb
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.AssemblyReference.cache
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev_Takip.Properties.Resources.resources
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.GenerateResource.cache
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.exe
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.pdb
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev_Takip.Form1.resources
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.CopyComplete
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\Interop.WMPLib.dll
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Interop.WMPLib.dll
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.ResolveComReference.cache
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gurka\source\repos\Görev Takip\Görev Takip\obj\Debug\Görev Takip.csproj.Fody.CopyLocal.cache

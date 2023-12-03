@@ -1,0 +1,2 @@
+Uygulamamızın açılması için Görev Takip- tasks - timer dosyalarının aynı klosör içinde bulunması gerekir.
+Uygulama amacı: Günlük yapacaklarımızı not alıp daha sonrasında bunları tamamlamamız eğer tamamlamazsak bir alarm ile karşılaşıyoruz tamamladığımız görevide silebiliriz.
